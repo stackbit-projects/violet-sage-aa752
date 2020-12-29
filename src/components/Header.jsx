@@ -75,7 +75,7 @@ const HeaderLinks = styled("div")`
 const Header = () => (
     <HeaderContainer>
         <HeaderContent>
-            <Link to="/">
+            <Link to="/deyalla">
                 <Logo/>
             </Link>
             <HeaderLinks>
